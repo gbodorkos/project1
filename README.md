@@ -17,3 +17,6 @@ As a conclusion we can say that structural variances and many other factors coul
 
 
 The dataset doesn’t explain the reasons why some of the values deviate drastivally, it might be due to standardization differences or it can actually indicate how much difference is there between the average amount of money one person indirectly gets out of the system, but the data is well documented enough to accurately describe which values are outstanding and do research to see economic and any other reasons therefore I think it’s a very useful tool to get a comprehensive overview.
+
+Trello board: https://trello.com/b/WO5LepHv/data-project-1
+Online Tableau dashboards and sheets: https://public.tableau.com/app/profile/gell.rt.bodork.s/viz/Primaryandtertiaryeducation/Sheet4
